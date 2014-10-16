@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bvp:home|Door43 (bvp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bvp|d43-bvp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bvp/archive/master.zip|d43-bvp.zip]]
+
+**Recent Changes**
+{{changes>ns = bvp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bvp|Ethnologue data]]
+
